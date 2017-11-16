@@ -1,0 +1,10 @@
+mkdir ProjectName
+cd ProjectName
+touch LICENSE.md
+touch README.md
+touch CITATION.md
+mkdir data
+mkdir doc
+mkdir results
+mkdir src
+cd data

@@ -7,7 +7,7 @@
    - It will help you to create an organized directory for your next project
 
    - It will look like this:
-
+```
      .
      |-- CITATION
      |-- README
@@ -22,6 +22,8 @@
      |-- src
      |   -- analysis.py
      |   -- runall.py
+     
+```
 
 2. if has command line arguments
 

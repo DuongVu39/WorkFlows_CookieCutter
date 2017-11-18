@@ -9,13 +9,13 @@ If you do things right from the beginning, it will be just a piece of cake to lo
 
 ### Getting to know cookie-cutter?
 
-![Cookie Cutter](image/cookiecutter.PNG)
+![Cookie Cutter](image/cookiecutter.png)
 
 1.  What is a cookie-cutter?
 
 Just an automated shell script that will help you to set up all the folders and needed files from the very beginning of your data science project.
 
-1.  What does the script do?
+2.  What does the script do?
 
 -   It will ask you some questions about the projects.
 -   Then create an organized directory for your next data science project.
@@ -49,7 +49,7 @@ Just an automated shell script that will help you to set up all the folders and 
 
 -   If you don't know how to clone the repository, then download the zip file by clicking on the green button on the top right:
 
-![download](image/download.PNG)
+![download](image/download.png)
 
 -   If you download the zip file, remember to unzip it and place the file where you want to operate.
 
@@ -57,7 +57,7 @@ Just an automated shell script that will help you to set up all the folders and 
 
 **Step 3:** Double click on the `tiny_cookie_cutter` file or run it by Git Bash/ Command
 
-    **NOTICE**:  The script will ask you several questions about your project. Answer them and please notice:
+   **NOTICE**:  The script will ask you several questions about your project. Answer them and please notice:
 
 -   Leave no blank space in your project name. One suggestion is to use underscore: *project\_name*
 -   The author name can be your name or your company/ organization, depending on who will keep the copyright of this project. (Don't know about copyright? Check [this](https://simple.wikipedia.org/wiki/Copyright))
@@ -93,4 +93,4 @@ Any question?
 
 To end this, remember:
 
-![lazy](image/organized-people.jpg)
+![lazy](image/Organized-People.jpg)

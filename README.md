@@ -7,7 +7,7 @@ Hey, have you ever felt tired of looking for a file? But then it takes too much 
 
 If you do things right from the beginning, it will be just a piece of cake to look for what you need. This tedious task should not be done manually, so let's me help you with my *tiny\_cookie\_cutter*.
 
-### Getting to know cookie-cutter?
+### Getting to know cookie-cutter
 
 ![Cookie Cutter](image/cookiecutter.png)
 

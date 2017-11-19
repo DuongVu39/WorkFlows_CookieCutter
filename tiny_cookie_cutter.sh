@@ -30,6 +30,7 @@ read -p "Type the option you select:" choice
 if [ "$choice" -eq "$choice" 2> /dev/null ]; then
   if [ $choice -lt 1 -o $choice -gt 3 ]; then
     echo -e "\n==> Enter a number between 1 and 3 <=="
+    read -p "Type the option you select:" choice
   elif [ $choice -eq 1 ]; then
     echo "                    GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
@@ -743,6 +744,7 @@ For more information, please refer to <http://unlicense.org>" > LICENSE.md
     fi
   else
     echo -e "\n==> This is not a number <=="
+    echo "The LICENSE file will be blank"
   fi
 
 touch README.md

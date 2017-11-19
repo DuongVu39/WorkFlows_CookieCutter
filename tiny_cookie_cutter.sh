@@ -26,7 +26,7 @@ echo "1. GNU AGPLv3"
 echo "2. MIT license"
 echo "3. The Unlicense"
 echo -e "$HORIZONTALLINE\n"
-read -p "Type the option you select:" choice
+read -p "Type the option you select: (only enter number 1 to 3)" choice
 if [ "$choice" -eq "$choice" 2> /dev/null ]; then
   if [ $choice -lt 1 -o $choice -gt 3 ]; then
     echo -e "\n==> Enter a number between 1 and 3 <=="

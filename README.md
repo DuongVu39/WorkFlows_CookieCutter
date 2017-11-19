@@ -62,8 +62,8 @@ Just an automated shell script that will help you to set up all the folders and 
 
 -   Leave no blank space in your project name. One suggestion is to use underscore: *project\_name*
 -   The author name can be your name or your company/ organization, depending on who will keep the copyright of this project. (Don't know about copyright? Check [this](https://simple.wikipedia.org/wiki/Copyright))
-    -   The description can be long or short, up to you but you can always go back and update it later in the README.md file of your project.
-    -   For LICENSE choice, please take a look at this [website](https://choosealicense.com/) for a clear explanation and choices. You can always change the LICENSE.md file later.
+-   The description can be long or short, up to you but you can always go back and update it later in the README.md file of your project.
+-   For LICENSE choice, please take a look at this [website](https://choosealicense.com/) for a clear explanation and choices. You can always change the LICENSE.md file later.
 
 ### The structure of this repository
 

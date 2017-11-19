@@ -27,7 +27,7 @@ Just an automated shell script that will help you to set up all the folders and 
          |-- CITATION
          |-- README 
          |-- LICENSE
-         |-- .gitignore.py          #  specifies intentionally untracked files that Git should ignore (i.e. backup files)
+         |-- .gitignore.py          # specifies intentionally untracked files that Git should ignore (i.e. backup files)
          |-- data
          |   -- # where you store your raw data file
          |   -- # metadata files - information about other data
